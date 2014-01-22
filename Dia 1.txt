@@ -1,0 +1,92 @@
+- unico lenguaje de programación es JavaScript
+-FrontEnd es la parte visible de la web.
+- BackEnd es otra curso jajajaj
+- Bases de Datos:
+MySql Postgres y MongoDB
+
+Se comunica con BackEnd: Django, Python, Node.Js (framework Sofret.IO)
+
+------------------
+
+Html5 es multicontenido (se vera a lo largo del curso)
+
+puls2014 proyecto- Esto crearemos
+
+-----------------
+
+Al diseñar pensamos en 320 pixeles (ancho del ihpone)
+
+----------------------
+
+Abandonar protocolo FTP:
+Hosting barato ---> public_html 
+index.php
+images
+leonidas.jpeg
+www.dogecoin.com
+
+-----------------------
+
+Usa Sistema de COntrol de Versiones:
+SVN: Subversion / Mercurial / TFS / CVS / GIT (este usamos, es de linux)
+
+GITHUB: Hay un repositorio de código. / Se crea un clon local y  luego hacemos un COMIT (sincronizacion de cambios)
+Hace cambios DELTA y funciona con archivos binarios (Sube solo los cambios)
+
+------------------------
+
+Con github tenemos un archivo ( nos permite ver versiones anteriores, ademas multiples personas trabajan sobre el mismo archivo)
+
+---------------------
+
+GITHUB te da Branches
+*master (github) repo principal
+*master (disco duro) repo local
+*master (servidor.com) Repo Produccion
+
+Te permite hacer MERGE entre discos
+
+----------------------
+
+Crear repositorio (BASE DE DATOS)
+
+Pulso2014-America
+
+------------
+
+No combinar idiomas, estos deben ir aislados por dominios y subdominios
+
+------------
+
+los idiomas debeir ir aislados por dominios
+
+....................
+
+CMS: Usar Wordpress. ghost, drupal
+JOOMLA es lo peor
+
+---------------------
+
+Secciones semánticas HTML5 <header> <footer> <section> <banner>
+
+///////////////////////////////
+
+
+Header
+Nav 
+section
+
+
+BUscar la manera mas facil des etructurar el contenido
+
+.....................
+
+<b> no usar para negrita, es bold, mejor es <strong>
+
+///////////////////////
+
+class repetible id no se repite
+
+-----------
+
+No usar <br /> para diseñar, solamente para el contenido.
